@@ -16,6 +16,7 @@ group :assets do
 	gem 'uglifier'
 end
 
+gem 'turbolinks'
 gem 'jquery-rails'
 
 group :production do
