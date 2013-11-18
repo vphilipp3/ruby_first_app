@@ -16,8 +16,10 @@ group :assets do
 	gem 'uglifier'
 end
 
+gem 'jbuilder'
 gem 'turbolinks'
 gem 'jquery-rails'
+gem 'execjs'
 
 group :production do
 	gem 'pg'
